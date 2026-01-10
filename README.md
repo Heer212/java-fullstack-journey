@@ -1,18 +1,30 @@
 # Java Full Stack Journey 🚀
-
-This repository documents my preparation for campus placements as a Java Full Stack Developer.
-
 ## Tech Stack
 - Core Java
 - Oracle SQL
 - React.js (internship experience)
 - Node.js & MySQL (backend basics)
 
-## Day 1 Progress
-- ✔ Java Basics (syntax, loops, OOP fundamentals)
-- ✔ Arrays (1D array operations & practice problems)
+## Day 1
+## Day 1
+- Java basics
+- Arrays basics
+- Git & GitHub basics
 - ✔ Oracle SQL
   - SELECT, WHERE, ORDER BY
   - GROUP BY, HAVING
   - Aggregate functions
   - Pattern matching using LIKE
+
+## Day 2
+### Strings
+- Reverse a string
+- Palindrome check
+- Count vowels and consonants
+- Find duplicate characters
+- Reverse each word in a sentence
+
+### DSA Basics
+- What is DSA
+- Importance of DSA
+- Time complexity: O(1), O(n), O(n²)
