@@ -50,3 +50,11 @@
 - Loop boundary conditions
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+## Day 4
+### Arrays & DSA → ArrayDay4.java
+- Frequency count of elements (nested loop) 
+- Frequency count of elements (HashMap) 
+- First and last occurrence 
+- Second minimum element 
+- Array rotation 
