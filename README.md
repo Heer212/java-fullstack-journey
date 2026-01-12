@@ -8,7 +8,7 @@
 
 ---
 
-## Day 1 → `JavaApplication2.java`
+## Day 1 → JavaApplication2.java
 - Java basics
 - Arrays basics
 - Git & GitHub basics
@@ -20,7 +20,7 @@
 
 ---
 
-## Day 2 → `stringPractise.java` , `array_practise.java`
+## Day 2 → stringPractise.java , array_practise.java
 ### Strings
 - Reverse a string
 - Palindrome check
@@ -35,7 +35,7 @@
 
 ---
 
-## Day 3  → `ArrayBasics.java`
+## Day 3  → ArrayBasics.java
 ### Arrays (Java)
 - Array declaration and traversal
 - Print even numbers from array
