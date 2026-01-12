@@ -51,8 +51,8 @@
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 
-## Day 4
-### Arrays & DSA → ArrayDay4.java
+## Day 4 → ArrayDay4.java
+### Arrays & DSA 
 - Frequency count of elements (nested loop) 
 - Frequency count of elements (HashMap) 
 - First and last occurrence 
