@@ -58,3 +58,23 @@
 - First and last occurrence 
 - Second minimum element 
 - Array rotation 
+
+## Day 5 → SortingSearchingDay5.java
+### Search Algorithms
+- Linear Search 
+- Binary Search 
+
+### Sorting Algorithms
+- Bubble Sort 
+- Selection Sort
+- Insertion Sort
+
+### DSA Concepts
+- One-pass and two-pass array traversal 
+- Shifting elements for insertion sort 
+- Comparing swap vs shift in sorting 
+- Time Complexity:
+  - Linear Search → O(n) 
+  - Binary Search → O(log n) 
+  - Bubble / Selection / Insertion Sort → O(n²) 
+- Space Complexity: O(1) 
