@@ -77,4 +77,11 @@
   - Linear Search → O(n) 
   - Binary Search → O(log n) 
   - Bubble / Selection / Insertion Sort → O(n²) 
-- Space Complexity: O(1) 
+- Space Complexity: O(1)
+
+## Day 6 → ArrayHashMapDay6.java
+- Move Zero to End
+- Finding first non repeating element using Hashmap
+- Pair with given sum using HashMap
+- Boolean flag for “pair not found”
+- HashMap concepts: frequency count, complement logic, O(n) time
