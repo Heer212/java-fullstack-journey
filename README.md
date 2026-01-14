@@ -50,7 +50,7 @@
 - Loop boundary conditions
 - Time Complexity: O(n)
 - Space Complexity: O(1)
-
+---
 ## Day 4 → ArrayDay4.java
 ### Arrays & DSA 
 - Frequency count of elements (nested loop) 
@@ -58,7 +58,7 @@
 - First and last occurrence 
 - Second minimum element 
 - Array rotation 
-
+---
 ## Day 5 → SortingSearchingDay5.java
 ### Search Algorithms
 - Linear Search 
@@ -78,7 +78,7 @@
   - Binary Search → O(log n) 
   - Bubble / Selection / Insertion Sort → O(n²) 
 - Space Complexity: O(1)
-
+---
 ## Day 6 → ArrayHashMapDay6.java
 - Move Zero to End
 - Finding first non repeating element using Hashmap
