@@ -85,3 +85,23 @@
 - Pair with given sum using HashMap
 - Boolean flag for “pair not found”
 - HashMap concepts: frequency count, complement logic, O(n) time
+
+---
+
+## Day 7 → AdvanceArrayDay7.java
+### Advanced Array & HashMap Problems
+- Maximum subarray sum (Kadane’s Algorithm)
+- Subarray with given sum (Sliding Window)
+- Count subarrays with given sum (HashMap)
+- Understanding prefix sum concept
+- Complement logic using HashMap (target − current)
+
+### DSA Concepts
+- Sliding Window technique
+- Prefix Sum
+- HashMap for optimized lookup
+- Time Complexity:
+  - Sliding Window: O(n)
+  - HashMap-based subarray count: O(n)
+- Space Complexity: O(n)
+
